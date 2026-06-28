@@ -1,0 +1,55 @@
+Task 3 – Exploratory Data Analysis (EDA)
+BlueStock Internship
+
+Objective:
+Perform comprehensive exploratory analysis on the Mutual Fund Analytics dataset to identify trends, investment behaviour, portfolio allocation, and benchmark performance.
+
+Work Completed:
+
+• Loaded and verified all datasets
+• Performed data quality assessment
+• Checked missing values and data types
+• Generated descriptive statistics
+
+Visualizations Created:
+
+1. NAV Trend Analysis
+2. AUM Growth by Fund House
+3. Monthly SIP Inflow Trend
+4. Category-wise Monthly Inflow Heatmap
+5. Age Distribution
+6. Investment Amount by Age Group
+7. Gender Distribution
+8. Annual Income Distribution
+9. City Tier Distribution
+10. Average Investment by City Tier
+11. Transaction Type Distribution
+12. Investment Amount Distribution
+13. State-wise Investment Distribution
+14. Payment Mode Distribution
+15. Correlation Heatmap
+16. Portfolio Sector Allocation
+17. Top Portfolio Holdings
+18. Benchmark Performance
+19. Benchmark Comparison
+
+Major Insights:
+
+• Mutual fund NAVs demonstrated consistent long-term growth.
+• SIP inflows increased steadily from 2022 to 2025.
+• SBI Mutual Fund maintained the highest Assets Under Management.
+• Flexi Cap and Large & Mid Cap categories attracted the highest inflows.
+• SIP remained the preferred investment mode.
+• Portfolio holdings were concentrated in major sectors like Banking, IT, Pharma, and Utilities.
+• Benchmark analysis highlighted performance differences across indices.
+
+Deliverables:
+
+✓ Jupyter Notebook
+✓ Charts Folder
+✓ Documentation
+✓ README
+✓ Summary Report
+
+Status:
+Task Successfully Completed.

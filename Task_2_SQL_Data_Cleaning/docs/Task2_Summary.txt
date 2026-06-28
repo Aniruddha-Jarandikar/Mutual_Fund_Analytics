@@ -1,0 +1,39 @@
+DAY 2 SUMMARY
+==============
+
+Project: SQL Data Cleaning & Exploration
+Internship: BlueStock
+
+Tasks Completed:
+----------------
+• Organized the project structure for SQL-based data analysis.
+• Loaded and explored the dataset.
+• Designed the database schema using SQLite.
+• Created database tables and imported the dataset.
+• Performed data cleaning by identifying missing values, duplicates, and inconsistent records.
+• Wrote SQL queries for data exploration and validation.
+• Executed filtering, aggregation, sorting, and grouping operations.
+• Verified data integrity after cleaning.
+• Documented the dataset with a data dictionary.
+• Saved the cleaned dataset and SQL scripts for future analysis.
+
+Files Created:
+--------------
+• schema.sql
+• queries.sql
+• data_cleaning.ipynb
+• data_dictionary.md
+• cleaned_dataset.csv
+• README.md
+
+Key Learnings:
+--------------
+• Database schema design using SQL.
+• Data cleaning and preprocessing techniques.
+• SQL querying (SELECT, WHERE, GROUP BY, ORDER BY, HAVING).
+• Aggregate functions and data validation.
+• Organizing analytics projects with proper documentation.
+
+Status:
+-------
+Task 2 completed successfully with all required SQL scripts, notebook, documentation, and cleaned dataset prepared for submission.
